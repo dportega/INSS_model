@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="jubilacintmalfagesfirAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_jubilacintmalfa.xml#jubilacintmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gesfir.xml#gesfir"/>
+</archimate:AssociationRelationship>

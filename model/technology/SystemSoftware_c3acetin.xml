@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ACETIN"
+    id="c3acetin">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="Como va mi pensión: Total de accesos para Consultas de expdtes por internet"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="C3UCETIN"/>
+  <properties
+      key="Claves utilizadas"
+      value="CT-SPD-FECHORCT-SPD-FECPRESTCT-SPD-FECREGCT-SPD-FECPANTA"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Espacio asignado"
+      value="1"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

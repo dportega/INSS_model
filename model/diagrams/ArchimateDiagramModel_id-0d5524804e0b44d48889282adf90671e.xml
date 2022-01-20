@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prueba"
+    id="id-0d5524804e0b44d48889282adf90671e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-156604569a204370adb7bc7b94d1a2e5">
+    <bounds
+        x="231"
+        y="176"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_defuncinoauxiliopordefuncintaalfa.xml#defuncinoauxiliopordefuncintaalfa"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="orfandadtaalfasmnoteAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_orfandadtaalfa.xml#orfandadtaalfa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_smnote.xml#smnote"/>
+</archimate:AssociationRelationship>
