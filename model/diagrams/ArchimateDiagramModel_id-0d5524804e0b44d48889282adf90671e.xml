@@ -5,14 +5,14 @@
     id="id-0d5524804e0b44d48889282adf90671e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-156604569a204370adb7bc7b94d1a2e5">
+      id="id-9b3c31d566354427a976ec6bd2dd95a4">
     <bounds
-        x="231"
-        y="176"
+        x="353"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_defuncinoauxiliopordefuncintaalfa.xml#defuncinoauxiliopordefuncintaalfa"/>
+        href="ApplicationComponent_jubilacintaalfa.xml#jubilacintaalfa"/>
   </children>
 </archimate:ArchimateDiagramModel>
