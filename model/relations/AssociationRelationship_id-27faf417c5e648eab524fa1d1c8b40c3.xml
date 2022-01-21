@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27faf417c5e648eab524fa1d1c8b40c3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_polica.xml#polica"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-912485f279c44cf6bc602decc2420c20.xml#id-912485f279c44cf6bc602decc2420c20"/>
+</archimate:AssociationRelationship>
